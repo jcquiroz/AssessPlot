@@ -1,0 +1,16 @@
+---
+title: "Kobe"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(AssessPlot)
+```
+
+# Algo aca
