@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  articles/Kobe: Kobe.html
+  Lab01: Lab01.html
+last_built: 2024-08-23T18:44Z
+urls:
+  reference: https://jcquiroz.github.io/AssessPlot/reference
+  article: https://jcquiroz.github.io/AssessPlot/articles
