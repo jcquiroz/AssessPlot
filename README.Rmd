@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# AssessPlot
+# AssessPlot Tu Tu
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/AssessPlot)](https://CRAN.R-project.org/package=AssessPlot)
@@ -49,7 +49,7 @@ You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-da
 
 You can also embed plots, for example:
 
-```{r pressure, echo = FALSE}
+```{r pressure, echo = FALSE, fig.alt="Alternativo text"}
 plot(pressure)
 ```
 
