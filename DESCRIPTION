@@ -13,3 +13,4 @@ Suggests:
 VignetteBuilder: knitr
 Authors@R: 
     person("Juan-Carlos", "Quiroz", , "jcquiroz@facilevisual.com", role = c("aut", "cre"))
+URL: https://jcquiroz.github.io/AssessPlot/
