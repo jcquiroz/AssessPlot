@@ -1,0 +1,26 @@
+---
+title: "Lab01"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Lab01}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(AssessPlot)
+```
+
+Esto es un template para el curso MSC PUCV.
+
+```{r}
+1+1
+```
+
